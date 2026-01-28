@@ -4,7 +4,8 @@ This repository contains my SQL practice work, including SQL scripts I have writ
 
 The main goal of this repository is to document my learning process, demonstrate my SQL skills, and keep a structured collection of queries and results for future reference.
 
-## Environment
+## Tool
+
 SQL Server Management Studio (SSMS) 2014
 
 ## Repository Content
