@@ -49,7 +49,7 @@ From the HumanResources.EmployeeDepartmentHistory table, return all records wher
 ```sql
 Select BusinessEntityID from HumanResources.EmployeeDepartmentHistory
 where BusinessEntityID >= 200
-and (DepartmentID = 6 or DepartmentID=4);
+and (DepartmentID = 6 or DepartmentID = 4);
 ```
 ![Task 3](https://drive.google.com/uc?export=view&id=1ragc93xJIy_Tm6UNsq4TD1hf6hJaS6PA)
 # Task 4 – Filtering by Range and Date
