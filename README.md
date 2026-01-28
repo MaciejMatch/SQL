@@ -25,7 +25,7 @@ From the HumanResources.Department table, retrieve the DepartmentID and Name col
 ```sql
 Select DepartmentID,Name from HumanResources.Department;
 ```
-
+![Task 1](https://drive.google.com/file/d/1RAbIXjn_GGQMuTwPynsBwReq2rXlz3Gf/view?usp=drive_link)
 
 
 
