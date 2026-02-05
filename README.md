@@ -58,7 +58,7 @@ From the HumanResources.EmployeePayHistory table, select the columns: BusinessEn
 - Rate is between 60 and 100 and the rate change occurred no earlier than the year 2009
 ```sql
 Select BusinessEntityID,Rate,RateChangeDate from HumanResources.EmployeePayHistory
-- where Rate between 60 and 100 and RateChangeDate>='20090101';
+where Rate between 60 and 100 and RateChangeDate>='20090101';
 ```
 ![Task 4](https://drive.google.com/uc?export=view&id=1-rU0XSniHDs63IEKRV3KTRtpnxqojyTj)
 # Task 5 – Highest Value
