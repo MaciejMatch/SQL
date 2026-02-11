@@ -115,7 +115,7 @@ inner join Person.AddressType as T on
 b.AddressTypeID=T.AddressTypeID;
 ```
 ![Task 14](https://drive.google.com/uc?export=view&id=1w3l9J8_fUiwH2QFUx9I8mL8yT0UipBF5)
-# Task 9 – LEFT JOIN and Sorting
+# Task 9 – RIGHT JOIN and Sorting
 Join the tables: HumanResources.Employee, HumanResources.JobCandidate Return:
 - all records from JobCandidate
 - only matching records from Employee
